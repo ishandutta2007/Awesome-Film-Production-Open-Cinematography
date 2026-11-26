@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Film-Production-Open-Cinematography/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Film-Production-Open-Cinematography?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Film-Production-Open-Cinematography/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Film-Production-Open-Cinematography?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Film-Production-Open-Cinematography/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Film-Production-Open-Cinematography?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -71,7 +71,7 @@ From a market concentration perspective:
 
 *Curated open-source software, standards, and open cinema hardware sorted descending by GitHub stargazers count.*
 
-| Project & Repository | GitHub Stars | Category / Purpose | License | Free Tier / Self-Hosted Limits | Description |
+| Project & Repository | GitHub_Stars | Category / Purpose | License | Free Tier / Self-Hosted Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[OBS Studio](https://github.com/obsproject/obs-studio)** | <a href="https://github.com/obsproject/obs-studio/stargazers"><img src="https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white" alt="OBS Studio stars" /></a> | 📹 Live Production & Capture | GPL-2.0 | **100% Free Forever** (No limitations) | Free and open-source software for real-time video capture, camera switching, live streaming, and recording on-set camera feeds. |
 | **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** | <a href="https://github.com/FFmpeg/FFmpeg/stargazers"><img src="https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white" alt="FFmpeg stars" /></a> | 🎛️ Media Transcoding & Codecs | LGPL / GPL | **100% Free Forever** (No limitations) | The universal cross-platform multimedia framework to decode, encode, transcode, mux, demux, stream, and filter virtually all video and audio formats. |
